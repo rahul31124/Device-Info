@@ -4,6 +4,13 @@ Device Info is an Android app that shows detailed information about your device 
 
 This project is mainly built for learning Android development and understanding how Android system APIs work, while also being useful for users.
 
+
+<p align="center">
+  <img src="screenshots/Logo.png" width="120">
+</p>
+
+
+
 ## Features
 - **Device hardware and system information**  
   View basic device details such as model, Android version, and system properties in one place.
